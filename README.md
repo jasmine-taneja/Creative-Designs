@@ -8,7 +8,7 @@
 ##  Preview
 
 <p align="center">
-  <img src="stylish-phone-case-with-bow-design-durable-phone-cover-trendy-accessory-for-fashion-lovers-gift-for-her-cute-tech-protection-removebg-preview.png" alt="Phone Cover Design" width="300" />
+  <img src="Creative-Design/Phone-Covers/stylish-phone-case-with-bow-design-durable-phone-cover-trendy-accessory-for-fashion-lovers-gift-for-her-cute-tech-protection-removebg-preview.png" width="300" alt="Phone Cover Design" />
 </p>
 
 ---
