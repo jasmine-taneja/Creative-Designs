@@ -50,7 +50,7 @@ Colorful, eco-friendly, and customized cotton canvas tote bag – great for ever
 <div align="center">
 
 Designed by Jasmine Taneja  
-Made with Canva 
+Made with Canva     
 Connect & Collaborate  
 
 </div>
