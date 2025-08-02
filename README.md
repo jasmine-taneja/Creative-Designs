@@ -1,29 +1,56 @@
-# Stylish Phone Case Launch
+<h1 align="center">Jasmine's Creative Studio </h1>
 
-> A chic and durable phone cover with a bow design – perfect for fashion lovers 
-> Created with love on Canva – Jasmine's Creative Studio 
+<p align="center">A curated collection of stylish phone covers & customized tote bags – designed with love & creativity</p>
+
+<div align="center">
+
+### 🛍️ [Visit My Store](https://stitch-theory-by-jas.printify.me/)
+
+</div>
+
+---
+
+## 📱 Stylish Phone Case
+
+A chic and durable phone cover with a bow design – perfect for fashion lovers and aesthetic queens.  
+Created with love on Canva.
+
+🛒 [Order This Phone Case](https://stitch-theory-by-jas.printify.me/product/21692354/stylish-phone-case-with-bow-design-durable-phone-cover-trendy-accessory-for-fashion-lovers-gift-for-her-cute-tech-protection)
+
+<div align="center">
+  <img src="Phone-Covers/stylish-phone-case-with-bow-design-durable-phone-cover-trendy-accessory-for-fashion-lovers-gift-for-her-cute-tech-protection-removebg-preview.png" alt="Phone Cover" width="300"/>
+</div>
 
 ---
 
-##  Preview
+## 👜 Custom Tote Bag
 
-<p align="center">
-  <img src="Creative-Design/Phone-Covers/stylish-phone-case-with-bow-design-durable-phone-cover-trendy-accessory-for-fashion-lovers-gift-for-her-cute-tech-protection-removebg-preview.png" width="300" alt="Phone Cover Design" />
-</p>
+Colorful, eco-friendly, and customized cotton canvas tote bag – great for everyday use, shopping, beach days, or gifting.
+
+🛒 [Order This Tote](https://stitch-theory-by-jas.printify.me/product/22114491/colorful-customised-cotton-canvas-tote-bag-eco-friendly-shopper-beach-bag-grocery-tote-gift-everyday-use)
+
+<div align="center">
+  <img src="Tote-Bags/Front-removebg-preview.png" alt="Tote Bag Front" width="280"/>
+</div>
 
 ---
-### 🛍️ Visit My Store
-[Stylish Phone Cases & More – Shop Now](https://stitch-theory-by-jas.printify.me/product/21692354/stylish-phone-case-with-bow-design-durable-phone-cover-trendy-accessory-for-fashion-lovers-gift-for-her-cute-tech-protection)
 
----
-<br>
-<h2 align="center"> Phone Case Design Launch Video</h2>
-<br>
-<p align="center">
-  <a href="https://youtube.com/shorts/MGsWa8esrao?feature=share" target="_blank">
-    <img src="https://img.youtube.com/vi/MGsWa8esrao/hqdefault.jpg" alt="Watch the video" />
+## 🎥 Watch It In Action
+
+<div align="center">
+  <a href="https://youtube.com/shorts/MGsWa8esrao?feature=share">
+    <img src="https://img.youtube.com/vi/MGsWa8esrao/maxresdefault.jpg" alt="YouTube Video" width="400"/>
+    <br>
+    ▶️ Click to watch the short video
   </a>
-</p>
+</div>
 
-<p align="center"><i>Click the image above to watch my YouTube Shorts video of the design!</i></p>
+---
 
+<div align="center">
+
+Designed by Jasmine Taneja  
+Made with Canva 
+Connect & Collaborate  
+
+</div>
